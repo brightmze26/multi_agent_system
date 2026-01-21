@@ -1,0 +1,12 @@
+streamlit>=1.31.0
+pandas>=2.1.0,<3.0.0
+openpyxl>=3.1.2
+python-dotenv>=1.0.1
+plotly>=5.18.0
+
+google-genai>=1.0.0
+typing_extensions>=4.9.0
+
+pandasai==3.0.0
+pandasai-litellm==0.0.1
+litellm>=1.70.0
